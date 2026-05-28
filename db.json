@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "nombre": "Auriculares Bluetooth Pro",
+      "precio": 189900,
+      "categoria": "Electrónica",
+      "stock": 24,
+      "imagen": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "2",
+      "nombre": "Camiseta Algodón Premium",
+      "precio": 45900,
+      "categoria": "Ropa",
+      "stock": 50,
+      "imagen": "https://images.unsplash.com/photo-1521572163474-6869f9cf17ab?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "3",
+      "nombre": "Lámpara LED Escritorio",
+      "precio": 79900,
+      "categoria": "Hogar",
+      "stock": 15,
+      "imagen": "https://images.unsplash.com/photo-1507473885762-e6ed057f782c?w=400&h=300&fit=crop"
+    }
+  ]
+}
